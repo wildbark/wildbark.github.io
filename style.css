@@ -1,0 +1,113 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #2f3b62;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #2f3b62;
+    text-transform: uppercase;
+}
+
+.buttons {
+    display: inline;
+}
+
+.container {
+    padding: 10px;
+    margin: 10px auto;
+    border-top: 2px dotted #3C5E95;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 5px 5px;
+    min-height: 100px;
+}
+
+.color-label {
+    font-size: 25px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.portuguese-blue {
+    background-color: #3C5E95;
+    color: white;
+    width: inherit;
+}
+
+.twilight-blue {
+    background-color: #2f3b62;
+    color: white;
+    width: inherit;
+}
+
+.mountain-blue {
+    background-color: #4E6CB4;
+    color: white;
+    width: inherit;
+}
+
+.dusty-blue {
+    background-color: #65737E;
+    color: white;  
+    width: inherit;
+}
+
+.font-panel {
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration:underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.great-vibes {
+    font-family: "great vibes";
+    line-height: 25px;
+}
+
+.parisienne {
+    font-family: "parisienne";
+    line-height: 25px;
+}
+
+.bad-script {
+    font-family: "bad script";
+    line-height: 25px;
+}
+
+.shadows-into-light-two {
+    font-family: "shadows into light two";
+    line-height: 25px;
+}
+
+.footer {
+    text-align: center;
+    border-top: 2px dotted #3C5E95;
+}
