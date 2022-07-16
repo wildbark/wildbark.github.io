@@ -64,6 +64,12 @@ h2 {
     width: inherit;
 }
 
+.slate-blue {
+    background-color: #627FB0;
+    color: white;
+    width: inherit;
+}
+
 .font-panel {
     display: inline-block;
     text-align: left;
